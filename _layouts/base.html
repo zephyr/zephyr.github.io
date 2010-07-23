@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<!--
+This should be HTML5, more or less pure.
+-->
+<html>
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+   <meta http-equiv="content-language" content="en" />
+   <title>{{ page.title }}</title>
+   <meta name="author" content="Dennis Heidsiek" />
+
+   <!-- GitHub syntax highlighting stylesheet: -->
+   <link rel="stylesheet" href="css/syntax.css" type="text/css" />
+   <!-- Global Homepage stylesheet: -->
+   <!-- <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection, print" /> -->
+</head>
+
+
+<body>
+<h1>{{ page.title }}</h1>
+
+<div id="content">
+{{ content }}
+</div>
+
+<div id="footer">
+This page has been last updated on {{ site.time | date: "%Y-%m-%d" }} by Dennis Heidsiek.
+</div>
+
+<a href="http://github.com/zephyr"><img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_green_007200.png" alt="Fork me on GitHub" /></a>
+
+</body>
+
+
+</html>

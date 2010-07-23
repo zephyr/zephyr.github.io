@@ -1,0 +1,7 @@
+# Manual: http://www.kernel.org/pub/software/scm/git/docs/gitignore.html
+
+# Ignore the jekyll output directory:
+_site/
+
+# Ignore sink folder:
+sink/
