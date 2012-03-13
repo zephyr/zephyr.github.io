@@ -1,0 +1,4 @@
+; just to test if this works with github pages
+blog IN CNAME zephyr.github.com
+www  IN CNAME zephyr.github.com
+
