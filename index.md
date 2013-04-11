@@ -1,5 +1,5 @@
 ---
-title: zephyr.github.com
+title: zephyr.github.io
 layout: base
 ---
 
