@@ -1,1 +1,24 @@
-pygments : true
+
+# General Jekyll Configuration
+# Dokumentation: http://jekyllrb.com/docs/configuration/
+# Example: https://github.com/maciakl/Sample-Jekyll-Site/blob/master/_config.yml
+
+# Name of your blog (this will show up at the top of your page and in the RSS feed)
+name: zephyr.github.io
+
+# Short description (goes below the title; it will also be used in the RSS feed)
+description: Just some coding stuff.
+
+# Your name, as you want it to appear underneath each post and in the footer
+author: Dennis Heidsiek
+
+# Your email if you want it to be linked on the contact page
+#author_email: you@example.com
+
+timezone: Europe/Berlin
+
+highlighter: rouge
+
+# Exclude metadata and development time dependencies
+exclude: [.gitignore]
+
