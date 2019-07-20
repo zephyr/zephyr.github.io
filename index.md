@@ -7,5 +7,5 @@ layout: base
 See [zephyr](http://github.com/zephyr)
 
 ## More about me
-See [here](http://www.google.com/profiles/Dennis.Heidsiek)
+See [here](https://heidsiek.net/)
 
